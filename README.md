@@ -22,7 +22,7 @@
 
 <h2>ACESSO AO PROJETO</h2>
 <p>Ainda não o lançamos de forma oficial, mas caso queirem, podem visualizar o site por esse link:</p>
-#-https://gustavoorl.github.io/GustavoORl.gitbub.io/
+#-[https://gustavoorl.github.io/GustavoORl.gitbub.io](https://gustavoorl.github.io/Projeto_Ellen/)/
 
 <h2>TECNOLOGIAS UTILIZADAS</h2>
 <ul>
